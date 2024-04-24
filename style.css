@@ -10,13 +10,13 @@ input[type="text"], textarea {
     width: 100%; 
     padding: 8px;
     margin-bottom: 10px;
-    border: 1px solid #ccc;
+    border: 1px solid #c5bfbf;
     border-radius: 4px;
     box-sizing: border-box;
 }
 button {
-    background-color: #144715;
-    color: rgb(151, 126, 126);
+    background-color: #34b41a;
+    color: rgb(248, 244, 244);
     padding: 10px 20px;
     border: none;
     border-radius: 4px;
